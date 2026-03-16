@@ -44,23 +44,23 @@ Tom’s goals should emphasize **technical exposure + career awareness + transfe
 
 **Goal Statement**
 
-By May 29, Tom will complete **three introductory cybersecurity lab exercises** using Linux tools or networking utilities and document them in a GitHub repository.
+By March 30, Tom will complete **three introductory cybersecurity lab exercises** using Linux tools or networking utilities and document them in a GitHub repository.
 
 Why it satisfies SMART:
 
 Specific
-Cybersecurity labs using Linux/networking tools.
+Cybersecurity labs using Linux/networking tools, enter the Google Cybersecurity Certificate Program.
 
 Measurable
 Three labs documented.
 
 Achievable
-Three small labs over ~10 weeks is realistic.
+Three small labs over ~2 weeks is realistic.
 
 Relevant
 Directly aligned with cybersecurity.
 
 Time-Bound
-Deadline: May 29.
+Deadline: March 30.
 
 ---
